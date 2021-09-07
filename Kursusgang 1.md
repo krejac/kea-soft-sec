@@ -21,4 +21,21 @@ Slides: [[1-programming-and-lab-setup.pdf]]
 - SDLC: Software Development Life Cycle (princip)
 - Advice: RTFM!
 
+### Goals of security
+- Prevention
+- Detection
+- Recovery
+
+### Overview of Sofware Security
+- Security testing vs. Traditional Testing
+- Functional testing does not prevent security issues
+- SQL injection
+- Attackers try to break the application, server, OS, etc.
+- Use methods like user input, memory corruption / buffer overflow, poor exception handling broken auth. ... etc.
+
+### Exercises
+6, 7 & 8.
+
+Der var en del fra dagens slides, som vi ikke nåede igennem. Det startede næste undervisning med. 
+
 #KEA/Softwaresikkerhed 
