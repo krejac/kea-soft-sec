@@ -7,7 +7,7 @@
 ## Lecture notes
 *Fortsat fra sidst*
 
-Programmeringssproget C er et "unsafe" sprog.
+Programmeringssproget C er et "unsafe" sprog. Gammelt, forventer at programmøren ved hvad han laver.
 
 ### Brug analyseværktøjer
 **Statisk analyse**
