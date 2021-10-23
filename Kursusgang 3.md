@@ -59,13 +59,13 @@ Source: https://en.wikipedia.org/wiki/Cryptography
 - Priority
 - Regulations
 
-**Phases of SSDL**
-Phase 1: Security Guidelines, Rules, and Regulations
-Phase 2: Security requirements: attack use cases
-Phase 3: Architectural and design reviews/threat modelling 
-Phase 4: Secure coding guidelines
-Phase 5: Black/gray/white box testing
-Phase 6: Determining exploitability
+**Phases of SSDL**   
+Phase 1: Security Guidelines, Rules, and Regulations   
+Phase 2: Security requirements: attack use cases   
+Phase 3: Architectural and design reviews/threat modelling    
+Phase 4: Secure coding guidelines   
+Phase 5: Black/gray/white box testing   
+Phase 6: Determining exploitability   
 
 ... og bagefter: 
 
